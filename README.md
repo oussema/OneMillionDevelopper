@@ -1,1 +1,8 @@
 # OneMillionDevelopper
+
+
+First of all I'm happy to join Gitcoin community, I'd love to join a community where I can learn blockchain techniques by doing hackathons and bounties. After that my idea to achieve 1,000,000 developers , is inspired from the kaggle plateform. How this plateform have succeeded to passe 1,000,000 registered users in 2017. Maybe the success of this community of kagglers is the mechanism of competiting in many exciting competitions. 
+
+I think there is a big difference bitween hachathons that Gitcoin already provide and competitions. I have seen many hackathons in the Gitcoin hackathons where Nobodey got a prize and this is the point wich I want to focus on. If there is a hackathon where participants participate and make efforts but at the end, no one of them get a prize, the participants will not be motivated to the next hackathon, but if we change the concept to a competetion where the most valuable project will get the prize , even when there are some little issues to complete or the project is incomplet, that means we give the prize to the best work , so at the end there are always winners and a leadbord into each competition. In each competition the judges rank all the projects submitted , the idea is to give the first 30% of the projects submitted a gold medal , the second 30% of the projects submitted a silver medals etc ...
+
+We could replace medals by special kudos, to be as proof of expertise. Participant that got 3 gold medals for example could add this medals to his resume to be a proof of expertise to get a good job in the field of blockchain.         
